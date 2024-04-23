@@ -1,0 +1,19 @@
+{
+  "name": "system-development",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "Automation for get Huntr data and generate it to google sheet",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "dotenv": "^16.4.5",
+    "googleapis": "^134.0.0",
+    "luxon": "^3.4.4",
+    "node-cron": "^3.0.3"
+  }
+}
